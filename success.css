@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(2, 0, 0, 0.8);
+}
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    position: fixed;
+    margin-top: -11%;
+    background: linear-gradient(rgb(103, 102, 102), rgb(99, 101, 103, 0.9), rgb(108, 99, 99));
+}
+#title{
+    margin: auto;
+    font-size: 40px;
+   margin-left: 35%;
+   color: goldenrod;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   /* text-shadow: 2px -1px; */
+}
+#bar{
+    font-size: 30px;
+    float: right;
+    margin: auto;
+    margin-right: 55px;
+    font-size: 35px;
+}
+#bar a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px 25px; 
+    box-shadow: 1px 1px 5px 5px; 
+    border-radius: 10px;
+}
+#bar a:hover{
+    background-color: white;
+    border: 2px solid #fff;
+    color: black;
+    border-radius: 10px;
+}
+
+#link{
+    width: 100%;
+    background-color: antiquewhite;
+    padding: 20px;
+    position: fixed;
+    margin-top: -4.4%;
+   
+}
+#link a{
+    text-decoration: none;
+    margin: 0 2% 0 2%;
+    font-size: 25px;
+}
+
+#video{
+
+    height: 500px;
+    margin-top: 11%;
+    margin-bottom: 10%;
+    border: 1px solid white;
+}
+
+
+
+#box1{
+    margin-top: 10%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box1 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+img:hover{
+    scale: 1.1;
+    border: 4px solid goldenrod;
+}
+p:hover{
+    color: goldenrod;
+    background-color: rgb(103, 102, 102);
+    border-radius: 50px;
+    /* padding: 0 5px; */
+}
+
+#box2{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box2 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box3{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box3 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box4{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box4 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box5{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box5 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box6{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box6 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box7{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box7 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box8{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box8 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
+
+#box9{
+    margin-top: 1%;
+    /* border: 1px solid white; */
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin: 2%;
+    border: 1px solid white;
+}
+#box9 p{
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left: 25px;
+    margin-bottom: -15px;
+    color: #fff;
+    width: fit-content;
+    padding: 3px;
+}
